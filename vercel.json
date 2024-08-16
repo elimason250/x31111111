@@ -21,7 +21,7 @@
 ],
 "headers": [
 {
-"source": "/.*",
+"source": "*", // Applies to all URLs
 "headers": [
 {
 "key": "Cache-Control",
